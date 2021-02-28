@@ -1,0 +1,500 @@
+LOCATION:where are the 49 steps ?
+ENTITY:what is the movie jonathan livingstone seagull ?
+HUMAN:who patented the first phonograph ?
+DESCRIPTION:how can i enforce new rules to a group of youngsters who have been allowed to do as they please .
+LOCATION:what two countries in south america are landlocked ?
+DESCRIPTION:what do mormons believe ?
+DESCRIPTION:how does it make its colors ?
+HUMAN:who is the prophet of the religion of islam ?
+DESCRIPTION:how does blood clot ?
+ENTITY:what tv game show once saw a contestant admit to picking his toes in the shower ?
+LOCATION:what las vegas hotel burned in november , 1980 , with the loss of 84 lives ?
+DESCRIPTION:what is an angelus ?
+ENTITY:what product did william horlick discover and produce ?
+HUMAN:what radio , tv and movie character did jackie gleason and william bendix play ?
+ENTITY:what kind of animals were in the paleozoic era ?
+ENTITY:what was the name of baretta 's cockatoo ?
+HUMAN:who is the french literary charcter who is chiefly famous for his enormous nose ?
+ENTITY:what is a female rabbit called ?
+NUMERIC:what time does wee willie winkie run through the town ?
+DESCRIPTION:what was the first funk 'n lata , brazilian group , success ?
+NUMERIC:how many americans have hiv ?
+LOCATION:what country offered albert einstein its presidency in 1952 ?
+HUMAN:what inescapable purveyor of background music celebrated its 5th anniversary in july , 1984 ?
+HUMAN:what was fred astaire 's dancing partner 's name ?
+ENTITY:what 's the largest u.s. agricultural crop by weight ?
+DESCRIPTION:what was the long march in china ?
+HUMAN:what mexican leader was shot dead in 1923 ?
+LOCATION:what is the nickname of pennsylvania ?
+NUMERIC:how tall is the matterhorn ?
+HUMAN:what are the names of jack 's original roommates on three 's company ?
+DESCRIPTION:how do i know if i am pregnant ?
+LOCATION:what are britain 's two longest rivers ?
+LOCATION:where is the keck telescope ?
+NUMERIC:dialing , 900 , 740-tree to have a tree planted will cost how much ?
+HUMAN:name of heroine in `` scruples '' ?
+NUMERIC:how many children under 18 are victims of some sort of physical abuse each year ?
+ENTITY:what is a fear of being cold ?
+ENTITY:in hemingway 's `` old man and the sea , '' what kind of fish does the old man catch ?
+DESCRIPTION:what are some chemical properties of mendelevium ?
+ENTITY:what was the alternate to vhs ?
+DESCRIPTION:what does `` antidisestablishmentarianism '' mean ?
+LOCATION:what asian city boasts the world 's biggest bowling alley ?
+DESCRIPTION:how do you recognize anorexia ?
+NUMERIC:how many people are there in the world ?
+HUMAN:what boxer 's life story is titled raging bull ?
+HUMAN:what are names of two old men who appear in the serial tv muppets show ?
+HUMAN:who is john macarthur , 1767-1834 ?
+LOCATION:what is the largest u.s. state east of the mississippi ?
+HUMAN:who is malaysia 's 43rd prime minister ?
+LOCATION:where does the tennis star stefan edberg come from ?
+LOCATION:what river flows through vienna , budapest and belgrade ?
+ENTITY:what is the fear of being loved ?
+ENTITY:what film was jude law in ?
+DESCRIPTION:what are christopher marlowe 's and shakespeare 's literary contributions to english literature ?
+HUMAN:what character did tex avery first create upon arriving at mgm ?
+ENTITY:what phenomenon would you expect to read about in the monthly publication the bigfoot news ?
+DESCRIPTION:how do i sing like elvis presley ?
+DESCRIPTION:how can i find out what year a beanie baby was introduced ?
+DESCRIPTION:what is barnstorming ?
+LOCATION:where can i find a tape or book to help me say , write and understand japanese ?
+DESCRIPTION:how does a small businessman contact the good humor ice cream company to do business with them ?
+NUMERIC:how many grammys did michael jackson win in 1983 ?
+DESCRIPTION:what good are mosquitoes ?
+LOCATION:where can i find information about bob barr , representative from georgia ?
+ENTITY:what plant is rum made from ?
+LOCATION:what country did the nazis occupy for 1 , cd nns in nnp nnp nnp .
+DESCRIPTION:how can i get someone 's phone number if i only have their screen name ?
+NUMERIC:how many cds has garth brooks sold ?
+DESCRIPTION:what do you need to do to marry someone in jail ?
+NUMERIC:when was beethoven born ?
+ENTITY:what comic strip sometimes features a mailman named beasley ?
+HUMAN:who was william henry harrison ?
+HUMAN:what group was formed in 1969 after police met resistance from patrons at the stonewall , a greenwich village gay bar ?
+HUMAN:what american league baseball team 's worst finish between 1926 and 1964 was fourth ?
+LOCATION:what planet gave bith to superman ?
+HUMAN:who was hitler 's minister of propaganda ?
+NUMERIC:what is the population of the united states ?
+NUMERIC:how many holes are there in a tenpin bowling ball ?
+ENTITY:what vehicles are raced in the tour de france ?
+ENTITY:what is a fear of food ?
+ENTITY:what was the first video ever made ?
+NUMERIC:how long does a pig 's orgasm last ?
+HUMAN:who invented the wonderbra ?
+HUMAN:whose video is titled shape up with arnold ?
+DESCRIPTION:how can i stop or slow down aging ?
+HUMAN:whose cover is that of an employee of universal import and export ?
+NUMERIC:how many milliseconds in a second ?
+HUMAN:what was the first u.s.-based team in the nhl ?
+HUMAN:what actor and world war ii airman had a $5 , 0 bounty put on his head by hermann goering ?
+LOCATION:what is the greatest hiking web site ?
+NUMERIC:how many url extensions are there ? and what are they ?
+DESCRIPTION:what function does a community 's water tower serve ?
+HUMAN:who wrote nn dt nnp nnp '' ?
+ENTITY:what is the most common kind of skin cancer in the u.s. ?
+NUMERIC:when is the sun closest to the earth ?
+ENTITY:what is a fear of sourness ?
+ENTITY:what was mel gibson 's first movie ?
+NUMERIC:how many real fruit juices are there in a can of hawaiian punch ?
+ENTITY:what indoor sport saw the phoenix inferno become the phoenix pride on july 14 , 1983 , when the temperature hit 111 degrees ?
+ENTITY:what leoncavallo opera features a prologue by a clown ?
+DESCRIPTION:what was the proper laugh-in respones to : `` say goodnight , dick '' ?
+NUMERIC:what is the mean income of the top 10% , top 5% , and top 1% ?
+LOCATION:what ocean surrounds the maldive islands ?
+LOCATION:what state 's home to the buffalo bill historical center ?
+HUMAN:who was the first woman governor of wyoming ?
+NUMERIC:what year did nylon stockings first go on sale ?
+LOCATION:what river runs through liverpool ?
+HUMAN:what college enlivens hanover , new hampshire ?
+HUMAN:which college did dikembe mutombo play basketball for ?
+ENTITY:what is the most advanced handheld calculator in the world ?
+LOCATION:what celestial body has a diameter of 864 , 000 miles ?
+HUMAN:what girl 's name is `` teddy '' an affectionate form of ?
+HUMAN:who were the yankee 's frequent enemies ?
+NUMERIC:when was cnn 's first broadcast ?
+HUMAN:what is an example of a famous rock band from the sixties ?
+HUMAN:what american sergeant lost both of his hands in combat during world war ii and then went on to act in a single movie for which he won two oscars ?
+ENTITY:what are some of australia 's native flora ?
+LOCATION:what is the leading pecan and peanut growing state ?
+LOCATION:what is the name of the city that maurizio pellegrin lives in ?
+LOCATION:where did bill gates go to college ?
+ABBREVIATION:what is hdlc ?
+HUMAN:which ventura county police department seized the largest cocaine shipment in it 's history ?
+LOCATION:what is the capital of congo ?
+HUMAN:who is always trying to get the rent from andy capp ?
+DESCRIPTION:what do a diamond and lump of coal have in common ?
+DESCRIPTION:what did richard feynman say upon hearing he would receive the nobel prize in physics ?
+DESCRIPTION:what are the side effects of mevacor ?
+LOCATION:where is the oldest living thing on earth ?
+HUMAN:who was the star of the 1965 broadway hit golden boy ?
+ENTITY:what determines the value of the pearl ?
+ENTITY:what instrument is ray charles best known for playing ?
+NUMERIC:how many sonnets did shakespeare write ?
+ENTITY:what killed bob marley ?
+DESCRIPTION:what are the environmental influences on plant genetics ?
+NUMERIC:how much of the earth 's surface is permanently frozen ?
+DESCRIPTION:how do you exterminate bees that are in the walls of your home ? will bee eggs remain over winter ?
+DESCRIPTION:how do clouds form ?
+HUMAN:who wrote the book , `` huckleberry finn '' ?
+DESCRIPTION:what are field effect transistors ?
+DESCRIPTION:how do you ask questions ?
+ENTITY:what kind of car did janis joplin ask the lord to buy her ?
+DESCRIPTION:why is chicago named chicago ?
+ABBREVIATION:what does btu mean ?
+DESCRIPTION:why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?
+HUMAN:who created maudie frickett ?
+NUMERIC:how many russians have landed on the moon ?
+DESCRIPTION:what exactly is radiation ?
+DESCRIPTION:what is idealab ! ?
+DESCRIPTION:how does cos cob , ct get its name ?
+DESCRIPTION:what is a caldera ?
+DESCRIPTION:what do japanese school uniforms look like ?
+HUMAN:what russian composer 's prelude in c sharp minor brought him fame and fortune ?
+NUMERIC:when was queen victoria born ?
+DESCRIPTION:why is hockey so violent ?
+HUMAN:when called upon to surrender , what american general replied , `` sir , i have not yet begun to fight . '' ?
+ENTITY:what is the most commonly used 1 letter word in the english language ?
+NUMERIC:when did the jurassic period end ?
+LOCATION:what is the deepest area of the arctic ocean ?
+DESCRIPTION:what is the proof that houseplants metabolize carcinogens ?
+DESCRIPTION:why is hockey so violent ?
+HUMAN:what manufacturers are there in texas ?
+DESCRIPTION:why is indiglo called indiglo ?
+DESCRIPTION:what is nitrox diving ?
+NUMERIC:when were the olympic games in which nadia comaneci became popular played ?
+HUMAN:who sought to create the great society ?
+HUMAN:what radio , tv and movie character did jackie gleason and william bendix play ?
+DESCRIPTION:what does hazmat stand for ?
+DESCRIPTION:what was nine tailors , the television show from 1974 , about ?
+DESCRIPTION:what is the orgin of xoxoxox ?
+DESCRIPTION:what is the origin of the ethnic category `` caucasian '' ?
+DESCRIPTION:what is the origin of the word , jj .
+HUMAN:what company has built more than 2.5 billion little green houses since 1935 ?
+HUMAN:who was the supreme god of germanic religion ?
+ENTITY:what kind of meat is fray bentos synonymous with ?
+NUMERIC:how many times can a nickel-cadmium rechargeable battery be recharged ?
+LOCATION:what georgia town did scarlett o 'hara condemn as being full of pushy people ?
+DESCRIPTION:why do you say `` god bless you '' when people sneeze ?
+NUMERIC:what is the chemical reactivity of neon ?
+ABBREVIATION:what does the abbreviation cwt. ?
+HUMAN:who did dita beard work for ?
+LOCATION:what country was mikhail gorbachev the leader of ?
+LOCATION:what is the tallest building in japan ?
+ENTITY:what are the 7 articles of the constitution ?
+NUMERIC:what is the first day of the week ?
+NUMERIC:what is columbia tristar 's phone number ?
+DESCRIPTION:why was muhammad ali stripped of his title and barred from boxing in 1967 ?
+ENTITY:what is the name of the second space shuttle ?
+LOCATION:what is the capital of seattle ?
+NUMERIC:how many people watch network television ?
+LOCATION:what building appropriately enough is depicted on the back of the 1-dollar bill ?
+HUMAN:name the child left on a doorstep at the beginning of gasoline alley .
+DESCRIPTION:what is a firewall ?
+HUMAN:what 2th-century fictional character attends pencey prep school ?
+ENTITY:what tools do you use to crewel ?
+NUMERIC:a normal human pregnancy lasts how many months ?
+ENTITY:what is a movie that kevin costner made about sioux indians ?
+HUMAN:what chocolate company gives you a one-pound kiss ?
+HUMAN:who won the battle of gettysburg ?
+ENTITY:what two vessels fought the first sea battle between iron-covered ships ?
+DESCRIPTION:what is osteichthyes ?
+DESCRIPTION:why is indiglo called indiglo ?
+LOCATION:where can i take a test that will tell me what i should be when i grow up ?
+DESCRIPTION:how do i find info about rice importers in the world ?
+DESCRIPTION:what caused an adjournment of the 25th anniversary session of the united nations general assembly ?
+HUMAN:what is the oldest profession ?
+ENTITY:what 1976 deep throat clone provides the leading lady with a second larynx ?
+ENTITY:how do you say , `` i love you '' in other languages ?
+HUMAN:which member of charlie 's angels sang vocals for josie and the pussycats ?
+DESCRIPTION:how do you do a bibliography with an unknown author ?
+ENTITY:what color are the castellated walls of the kremlin ?
+DESCRIPTION:what does the name jenna mean ?
+HUMAN:what comedian was born allen stewart konigsberg ?
+DESCRIPTION:how does a bill become law ?
+LOCATION:where was poe born ?
+NUMERIC:what do englishmen weigh themselves in ?
+NUMERIC:how fast does the fastest car go ?
+NUMERIC:what is the chemical reactivity of argon ?
+ENTITY:what hermann hesse book gave its name to a rock group ?
+HUMAN:who was the lawyer who represented randy steven craft ?
+LOCATION:what country did the nile river originate in ?
+ENTITY:to get the most caffeine , what soda should i drink ?
+ENTITY:what is the most heavily caffeinated soft drink ?
+NUMERIC:how big is a normal size penis for a 15-year-old ?
+DESCRIPTION:how does hair curl ?
+DESCRIPTION:what are chloroplasts ?
+HUMAN:what was called the world 's largest department store ?
+DESCRIPTION:what is troilism ?
+DESCRIPTION:what is the circumorbital hematoma ?
+DESCRIPTION:what is a `` false moon '' ?
+ENTITY:what instrument is ray charles best known for playing ?
+DESCRIPTION:what is prepared mustard ?
+ENTITY:what leoncavallo opera features a prologue by a clown ?
+DESCRIPTION:what do players try to do when the music stops in a game of musical chairs ?
+ENTITY:what famed gangland slaughter cut into the membership of bugs moran 's outfit ?
+LOCATION:where can i find correct tabs for third eye blind songs ?
+LOCATION:what country is home to heineken beer ?
+HUMAN:who wrote the lyrics to porgy and bess ?
+ENTITY:what is the formula to calculate pi ?
+ENTITY:what format was vhs 's main competition ?
+ENTITY:what is a fear of black people ?
+HUMAN:what is steve rogers 's profession when he 's not captain america ?
+DESCRIPTION:how do you do a topic outline ?
+ENTITY:what is the connection between new krypton and daxam ?
+DESCRIPTION:what is a ` borrow pit ' ?
+ENTITY:how do you say `` eat the day '' in latin ?
+ENTITY:what racehorse won an associated press poll as the greatest horse of the 20th century ?
+DESCRIPTION:how was teddy roosevelt related to fdr ?
+LOCATION:where was poe born ?
+ENTITY:what cancer is commonly associated with aids ?
+ABBREVIATION:what does the abbreviation ioc stand for ?
+DESCRIPTION:what are the benefits of a rowing machine ?
+ENTITY:which is the largest clock , diameter wise , in europe ?
+ENTITY:what is the name of the jewish alphabet ?
+LOCATION:what city in florida is sea world in ?
+LOCATION:what city boasts the billingsgate fishmarket ?
+HUMAN:what role do fruits play in the survival of plants ?
+ENTITY:what was the tragedy that struck the city of dogtown in 1899 ?
+HUMAN:which company claimed to be `` the world 's biggest toy store '' ?
+DESCRIPTION:how did the hohenzollerns build their power around 17 ?
+LOCATION:what 's the longest river in the world ?
+DESCRIPTION:what happens to used motor oil ?
+DESCRIPTION:what is the history of `` the toast '' ?
+ENTITY:the jewish alphabet is known as what ?
+DESCRIPTION:what is hypertext ?
+HUMAN:what 2th-century fictional character attends pencey prep school ?
+HUMAN:who developed the first polio vaccine ?
+ENTITY:what does the ouarterly review of doublespeak call an `` inoperative statement '' ?
+HUMAN:who was bonnie blue butler 's father ?
+HUMAN:who is the leader of brunei ?
+LOCATION:what u.s. state comes last in an alphabetical list ?
+DESCRIPTION:how do i find out about jobs ?
+DESCRIPTION:what is garry kasparov famous for ?
+HUMAN:who was israel 's first prime minister ?
+LOCATION:what is the tallest mountain ?
+HUMAN:who is samuel f. pickering ?
+ENTITY:what does a topophobic actor suffer from ?
+HUMAN:who was the tallest u.s. president ?
+DESCRIPTION:hazmat stands for what ?
+LOCATION:what mountainous region of the world is the lhasa apso dog native to ?
+LOCATION:what man-made waterways is 1.76 miles long ?
+DESCRIPTION:what is the lost colony ?
+LOCATION:in what state was the first co-educational college established
+LOCATION:tell me what city the kentucky horse park is near ?
+NUMERIC:when was the last major eruption of mount st. helens ?
+LOCATION:which city in canada is the least-populated ?
+HUMAN:who shot and killed himself while painting wheatfield with crows ?
+ENTITY:what james michener book is subtitled spanish travels and reflections ?
+NUMERIC:what is the most number of goals scored by a single team in an nhl hockey game ?
+ENTITY:what drink is the best thirst-quencher ?
+HUMAN:who created the fantastic four , hulk , and thor ?
+HUMAN:what 4-foot-9 actress in 1984 became the first performer to win an oscar for playing a character of the opposite sex ?
+ABBREVIATION:what does the abbreviation ioc stand for ?
+DESCRIPTION:why are so many umbrellas black ?
+ENTITY:what is a fear of thunder ?
+LOCATION:what country would you visit to ski in the dolomites ?
+LOCATION:what 's the only east european country not tied to the ruble ?
+DESCRIPTION:why did the chicken cross the road ?
+NUMERIC:how long did the paris commune hold out for against the rest of france ?
+HUMAN:who sang the song `` hooked on a feeling '' in the dancing baby episode of `` ally mcbeal '' ?
+NUMERIC:how far is yaroslavl from moscow ?
+ENTITY:what is the most popular sports car color ?
+ENTITY:what was the sequel to the pink panther ?
+HUMAN:what was the christian name of the title character in our miss brooks ?
+ENTITY:what is 55 times sweeter than cane sugar ?
+HUMAN:who wrote the poem that starts `` i love your lips when they 're wet with wine and red with a warm desire '' ?
+ENTITY:what product features a frog that says `` dig 'em '' ?
+NUMERIC:how many stations do you shoot from in the basketball game `` around the world '' ?
+ENTITY:what colors is magenta made of ?
+ENTITY:the trials resulting from world war ii are known as what ?
+ABBREVIATION:what is hdlc ?
+HUMAN:what company makes impulse hardening equipment ?
+HUMAN:what 19th-century writer had a country estate on the hudson dubbed sunnyside ?
+ENTITY:what kind of wine is spumante ?
+DESCRIPTION:what is the origin of music ?
+LOCATION:what european country abandoned postage stamps in 1923 because printing them cost more than their face value ?
+DESCRIPTION:why is hockey so violent ?
+HUMAN:name the u.s. senate majority leader and the speaker of the house .
+NUMERIC:when was hurricane hugo ?
+LOCATION:what u.s. state comes last in an alphabetical list ?
+NUMERIC:how much do drugs to treat tuberculosis cost ?
+NUMERIC:how many people in the usa say their number one source of information is the newspaper ?
+DESCRIPTION:what are the greek numerals ?
+DESCRIPTION:how did the tradition of best man start ?
+NUMERIC:when did they canonize the bible ?
+HUMAN:who was camp david named for ?
+ENTITY:what took first prize in omni magazine 's contest to find the `` ultimate unanswerable question '' ?
+HUMAN:what player squats an average of 3 times during a baseball doubleheader ?
+ABBREVIATION:what does bud stand for ?
+HUMAN:what was the ventura county police department that seized the county 's largest amount of cocaine ever ?
+DESCRIPTION:shea and gould closed their los angeles office for what reason ?
+NUMERIC:how many states have a lottery ?
+DESCRIPTION:how do i do this ?
+DESCRIPTION:what function does homeostasis have on the existence of an organism ?
+LOCATION:what are the two cities in dicken 's `` a tale of two cities '' ?
+LOCATION:where was chop suey invented ?
+NUMERIC:how long does it take for your blood to make one complete trip through the body ?
+LOCATION:what are the top 5 tallest buildings in the world ?
+NUMERIC:how long does it take the typical american to eat 23 quarts of ice cream ?
+ENTITY:aspartame is also known as what ?
+DESCRIPTION:why is microsoft 's windows 3 such a successful computer program ?
+LOCATION:what is the best place to live in the world , considering climate , civilization ?
+HUMAN:what baseball great plugged mr. coffee ?
+DESCRIPTION:what effect does friction have on perpetual motion ?
+DESCRIPTION:how do cameras take pictures ?
+HUMAN:what was the christian name of the title character in our miss brooks ?
+NUMERIC:how much coca cola is drunk in one day in the world ?
+LOCATION:where can i find a list of `` classic '' books 5th and 6th graders should read ?
+HUMAN:who is the prophet of medina ?
+NUMERIC:when does the average teenager first have intercourse ?
+ENTITY:what money was used by them ?
+DESCRIPTION:how do birds have sex ?
+ENTITY:what do the japanese call japan ?
+DESCRIPTION:what are kythnos , siphnos , seriphos and mykonos ?
+DESCRIPTION:how did the hohenzollerns build their power around 17 ?
+HUMAN:what was the name of `` the muppets '' creator ?
+DESCRIPTION:what is a leaky heart valve ?
+ENTITY:what is the second hardest substance ?
+DESCRIPTION:what does the name kelly mean ?
+HUMAN:who is the fastest guitarist ?
+HUMAN:who was hitler 's minister of propaganda ?
+DESCRIPTION:how do windmills work ?
+HUMAN:what fool is not so wise to lose an oath to win a paradise ?
+ENTITY:what was the favorite sport of tom wolfe 's the pump house gang ?
+DESCRIPTION:what does the dot on the letter i mean ?
+DESCRIPTION:how do you exterminate bees that are in the walls of your home ? will bee eggs remain over winter ?
+HUMAN:who killed martin luther king ?
+LOCATION:where is sinn fein 's headquarters ?
+LOCATION:where is procter & gamble headquartered in the u.s. ?
+ENTITY:what eating utensils are used for handicapped kids ?
+HUMAN:who is the director of the international group called the human genome organization , hugo , that is trying to coordinate gene-mapping research worldwide ?
+DESCRIPTION:how do i give a good massage ?
+HUMAN:who 's the lead singer of the led zeppelin band ?
+DESCRIPTION:what type of childhood did jules verne have ?
+HUMAN:who was the king who signed the magna carta ?
+ENTITY:what 1965 film had jack lemmon portraying a cartoonist ?
+DESCRIPTION:how do you become a dentist ?
+HUMAN:who was the charlie perfume woman ?
+ENTITY:mississippi is nicknamed what ?
+NUMERIC:what was the price of varian associates ' vacuum products division ?
+HUMAN:who did bobby fischer beat to win the world chess championship ?
+NUMERIC:when was child labor abolished ?
+DESCRIPTION:what is a biologist ?
+LOCATION:what country has the largest sheep population ?
+LOCATION:what was the birthplace of edgar allen poe ?
+DESCRIPTION:how come a doughnut has a hole in it ?
+ENTITY:what is the best way to overcome a fear ?
+DESCRIPTION:what 's the olympic motto ?
+HUMAN:what dictator has the nickname `` el maximo '' ?
+LOCATION:where can i find the history of the taiwanese language ?
+HUMAN:who was whitcomb judson ?
+ENTITY:what do penguins eat ?
+NUMERIC:how many counties are in indiana ?
+HUMAN:what british monarch 's lap did p.t. barnum 's tom thumb sit in ?
+HUMAN:which high schools are included in the south florida ice hockey league ?
+HUMAN:name a south african diamond producer ?
+NUMERIC:when did the royal wedding of prince andrew and fergie take place ?
+DESCRIPTION:why did egyptians shave their eyebrows ?
+NUMERIC:how many quarts of whole milk is needed to make one pound of butter ?
+ENTITY:what color is `` ash '' ?
+DESCRIPTION:how do you match a name to a social security number ?
+ENTITY:what did vasco da gama discover ?
+LOCATION:what is the city in which maurizio pellegrin lives called ?
+NUMERIC:what year was the avery dennison company founded ?
+LOCATION:which city in canada is the least-populated ?
+LOCATION:where is burma ?
+NUMERIC:how many cards is each player dealt in contract bridge ?
+HUMAN:who did sonny liston succeed as world heavyweight boxing champion ?
+DESCRIPTION:why did david koresh ask the fbi for a word processor ?
+NUMERIC:how much calcium should an adult female have daily ?
+DESCRIPTION:why was the zipper invented ?
+ENTITY:what two colors are you blind to if you suffer from protanopia ?
+DESCRIPTION:why do we have to go to school ?
+LOCATION:what country 's flag is field green ?
+HUMAN:who made a boat out of gopher wood ?
+LOCATION:what country other than germany invaded poland in september 1939 ?
+DESCRIPTION:why is the universe flat , if it started by an explosion , shouldn 't it be a sphere ?
+HUMAN:what was marilyn monroe 's real name ?
+ENTITY:what was simple simon fishing for in his mother 's pail ?
+DESCRIPTION:how did the great depression affect japan 's history ?
+ENTITY:what are the wolverine habits ?
+HUMAN:which member of charlie 's angels sang vocals for josie and the pussycats ?
+DESCRIPTION:how does a bill become law ?
+HUMAN:who killed martin luther king ?
+HUMAN:what woman pitcher has struck out ted williams and hank aaron ?
+ENTITY:what is glass made of ?
+DESCRIPTION:how can i find out how much income tax is paid on social security income on the 1998 income tax ?
+LOCATION:what u.s. state includes the san juan islands ?
+LOCATION:what country borders denmark to the south ?
+HUMAN:name the on stage character whose face was never seen .
+LOCATION:where was the largest concentration camp in world war ii ?
+HUMAN:what is the name of the company that manufactures the `` american girl '' doll collection ?
+LOCATION:what country did the mau mau uprising take place in ?
+DESCRIPTION:how do i find out the exact time of a sunset for a particular day ?
+DESCRIPTION:in waugh 's `` a handful of dust , '' what does the mad old man force the hero to do every afternoon ?
+LOCATION:what mountainous region of the world is the lhasa apso dog native to ?
+LOCATION:what building are british monarchs crowned in ?
+NUMERIC:when was the first stained glass window made ?
+ENTITY:the second most popular sport worldwide is what ?
+DESCRIPTION:what is the milky way ?
+NUMERIC:what year were the olympic games played in where nadia comaneci became popular ?
+NUMERIC:how many years is johnnie walker black label aged ?
+DESCRIPTION:what causes an earthquake ?
+ENTITY:what shape-shifting menace did rom come to earth to fight ?
+NUMERIC:how big is the largest diamond ?
+HUMAN:who was randy steven craft 's lawyer ?
+HUMAN:who died with more than 1 , 000 u.s. patents to his credit ?
+DESCRIPTION:what does laser stand for ?
+DESCRIPTION:what is the difference between the koran and the bible ?
+DESCRIPTION:why do pharmacists work on raised floors ?
+ENTITY:what film was based on the play everybody comes to rick 's ?
+LOCATION:where is tornado alley ?
+ENTITY:what is a fear of failure ?
+ENTITY:what is the nickname of the cleveland indians ?
+HUMAN:what government department did the untouchables work for ?
+ABBREVIATION:what does cpr stand for ?
+HUMAN:what asian spiritual and political leader was married at the age of 13 ?
+LOCATION:where is the largest post office building in the world ?
+ENTITY:what brand of white rum is still made in cuba ?
+LOCATION:what are some good medical sites for information ?
+LOCATION:where can i buy a pony on the big island for my daughter ?
+ENTITY:what kind of creatures are the canary islands named for ?
+ENTITY:what is a fear of failure ?
+ENTITY:ray charles is best known for playing what instrument ?
+LOCATION:what country in latin america is the largest one ?
+ENTITY:what was the top box office movie in april 1998 ?
+LOCATION:what country 's capital is tirana ?
+LOCATION:what is the geographical center of the us including alaska and hawaii ?
+DESCRIPTION:what category does the color pink denote in the trivial pursuit baby boomer edition ?
+HUMAN:what is the best art and design school in the world ?
+DESCRIPTION:how do i find if my relatives were on the trail of tears ?
+LOCATION:what is the largest museum in the world ?
+DESCRIPTION:what is the text of the fifth amendment ?
+LOCATION:where is the virtual desk reference ?
+DESCRIPTION:how do i find info about rice importers in the world ?
+LOCATION:which way do you turn your bic to increase the flame - clockwise or counterclockwise ?
+NUMERIC:what day is known as the `` national day of prayer '' ?
+DESCRIPTION:how does hair curl ?
+NUMERIC:how many movies has drew barrymore been in ?
+HUMAN:who famously rode to warn the people of massachusetts that the british were coming ?
+DESCRIPTION:how do i know how much money to save for retirement ?
+ENTITY:what kind of rocket launched the surveyor spacecraft ?
+HUMAN:when mighty mouse was conceived , what was his original name ?
+HUMAN:who is the leader of india ?
+NUMERIC:how many dollars a day did arthur frommer say you could get by on in europe in 1968 ?
+LOCATION:what city would you be in if you were feeding the pigeons in the piazza san marco ?
+DESCRIPTION:how successful is arometherapy ?
+LOCATION:where is the kalahari desert ?
+DESCRIPTION:what according to the kinsey institute , is the sexual preference of four percent of american males ?
+ENTITY:what did englishman john hawkins begin selling to new world colonists in 1562 ?
+HUMAN:what tv family sometimes buys eclairs from nelson 's bakery ?
+LOCATION:what is the location of mccarren airport ?
+LOCATION:where is the orange bowl ?
+HUMAN:who plays shortstop for charlie brown 's baseball team ?
+HUMAN:who played the original charlie 's angels ?
+ENTITY:what common livestock have the greatest variety of breeds ?
+HUMAN:who portrayed prewett in from here to eternity ?
+ENTITY:what was the name of robert fulton 's most famous steamboat ?
+NUMERIC:how much was the minimum wage in 1991 ?
+ABBREVIATION:what does iq stand for ?
+ENTITY:what war did johnny reb and billy yank fight ?
