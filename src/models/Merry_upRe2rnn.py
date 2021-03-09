@@ -4,7 +4,7 @@ from src.models.FARNN import IntentIntegrateSaperate_B, IntentIntegrateSaperateB
     FSARNNIntegrateEmptyStateSaperateGRU
 
 class MarryupRe2rnn(nn.Module):
-    def __init__(self, pretrained_embed, config=None, label_size=None, trans_r_1=None, trans_r_2=None, embed_r=None, trans_wildcard=None, h1_forward=None):
+    def __init__(self, pretrained_embed, config=None, label_size=None, trans_r_1=None, trans_r_2=None, embed_r=None, trans_wildcard=None, h1_forward=None, mat=None, bias=None):
         super(MarryupRe2rnn, self).__init__()
 
         self.pretrained_embed = pretrained_embed
@@ -20,9 +20,19 @@ class MarryupRe2rnn(nn.Module):
         self.embed_r = embed_r
         self.trans_wildcard = trans_wildcard
         self.h1_forward = h1_forward
+        self.mat = mat
+        self.bias = bias
         #prepare IntentIntegrateSaperate_B
-        self.fsa = IntentIntegrateSaperate_B(self.pretrained_embed, self.config, self.trans_r_1, self.trans_r_2, self.embed_r,
-                                             self.trans_wildcard, self.h1_forward)
+        self.fsa = IntentIntegrateSaperate_B(
+                                          pretrained_embed=self.pretrained_embed,
+                                          trans_r_1=self.trans_r_1,
+                                          trans_r_2=self.trans_r_2,
+                                          embed_r=self.embed_r,
+                                          trans_wildcard=self.trans_wildcard,
+                                          config=self.config,
+                                          mat=self.mat,
+                                          bias=self.bias,
+                                          h1_forward=h1_forward)
 
         # merry up
 
@@ -77,7 +87,7 @@ class MarryupRe2rnn(nn.Module):
         elif self.config.marryup_type == 'none':
             self.linear = nn.Linear(directions * config.rnn_hidden_dim, self.label_size)
 
-    def forward(self, input, lengths):
+    def forward(self, input, lengths, re_tags):
         # re_tags B x Label
         re_tags = self.fsa.forward(input, lengths)
         input = self.embedding(input)  # B x L x D

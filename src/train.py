@@ -3,6 +3,7 @@ from src.models.FARNN import IntentIntegrateSaperate_B, IntentIntegrateSaperateB
     FSARNNIntegrateEmptyStateSaperateGRU
 from src.models.FARNN_O import IntentIntegrateOnehot
 from src.models.Baseline import IntentMarryUp
+from src.models.Merry_upRe2rnn import MarryupRe2rnn
 from src.data import ATISIntentBatchDataset, ATISIntentBatchDatasetBidirection, ATISIntentBatchDatasetUtilizeUnlabel, MarryUpIntentBatchDataset, \
     load_glove_embed, load_classification_dataset, load_pkl, MarryUpIntentBatchDatasetUtilizeUnlabel
 from torch.utils.data import DataLoader
@@ -661,7 +662,7 @@ def train_marry_up(args):
     return acc_dev_init, acc_test_init, best_dev_acc, best_dev_test_acc, best_dev_test_p, best_dev_test_r, logger.record
 
 
-def train_MarryupRe2rnn(args):
+def train_MarryupRe2rnn(args,paths):
     assert args.additional_state == 0
     if args.model_type == 'KnowledgeDistill':
         assert args.marryup_type == 'none'
@@ -718,16 +719,72 @@ def train_MarryupRe2rnn(args):
     intent_dataloader_dev = DataLoader(intent_data_dev, batch_size=args.bz) if intent_data_dev else None
     intent_dataloader_test = DataLoader(intent_data_test, batch_size=args.bz)
 
+    forward_params = dict()
+    forward_params['V_embed_extend'], forward_params['pretrain_embed_extend'], forward_params['mat'], forward_params[
+        'bias'], \
+    forward_params['D1'], forward_params['D2'], forward_params['language_mask'], forward_params['language'], \
+    forward_params['wildcard_mat'], \
+    forward_params['wildcard_mat_origin_extend'] = \
+        get_init_params(args, in2i, i2in, t2i, paths[0])
+
+    if args.bidirection:
+        backward_params = dict()
+        backward_params['V_embed_extend'], backward_params['pretrain_embed_extend'], backward_params['mat'], \
+        backward_params['bias'], \
+        backward_params['D1'], backward_params['D2'], backward_params['language_mask'], backward_params['language'], \
+        backward_params['wildcard_mat'], \
+        backward_params['wildcard_mat_origin_extend'] = \
+            get_init_params(args, in2i, i2in, t2i, paths[1])
+
     pretrained_embed = load_glove_embed('../data/{}/'.format(args.dataset), args.embed_dim)
     if args.random_embed: pretrained_embed = np.random.random(pretrained_embed.shape)
+
+    h1_forward = None
+    h1_backward = None
+    if args.farnn == 1:
+        args.farnn = 0
+        temp_model = FSARNNIntegrateEmptyStateSaperateGRU(pretrained_embed=forward_params['pretrain_embed_extend'],
+                                                          trans_r_1=forward_params['D1'],
+                                                          trans_r_2=forward_params['D2'],
+                                                          embed_r=forward_params['V_embed_extend'],
+                                                          trans_wildcard=forward_params['wildcard_mat'],
+                                                          config=args, )
+        input_x = torch.LongTensor([[t2i['BOS']]])
+        if torch.cuda.is_available():
+            temp_model.cuda()
+            input_x = input_x.cuda()
+        h1_forward = temp_model.viterbi(input_x, None).detach()
+        h1_forward = h1_forward.reshape(-1)
+
+        if args.bidirection:
+            temp_model = FSARNNIntegrateEmptyStateSaperateGRU(pretrained_embed=backward_params['pretrain_embed_extend'],
+                                                              trans_r_1=backward_params['D1'],
+                                                              trans_r_2=backward_params['D2'],
+                                                              embed_r=backward_params['V_embed_extend'],
+                                                              trans_wildcard=backward_params['wildcard_mat'],
+                                                              config=args, )
+            input_x = torch.LongTensor([[t2i['EOS']]])
+            if torch.cuda.is_available():
+                temp_model.cuda()
+                input_x = input_x.cuda()
+            h1_backward = temp_model.viterbi(input_x, None).detach()
+            h1_backward = h1_backward.reshape(-1)
+
+        args.farnn = 1
 
     # for padding
     pretrain_embed_extend = np.append(pretrained_embed, np.zeros((1, args.embed_dim), dtype=np.float), axis=0)
 
-    model = IntentMarryUp(
+    model = MarryupRe2rnn(
         pretrained_embed=pretrain_embed_extend,
         config=args,
         label_size=len(in2i),
+        trans_r_1=forward_params['D1'],
+        trans_r_2=forward_params['D2'],
+        embed_r=forward_params['V_embed_extend'],
+        h1_forward = h1_forward,
+        mat=forward_params['mat'],
+        bias=forward_params['bias']
     )
 
     criterion = torch.nn.CrossEntropyLoss()

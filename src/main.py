@@ -113,7 +113,7 @@ if __name__ == '__main__':
             paths = (automata_path_forward, automata_path_backward)
             args.automata_path_forward = automata_path_forward
             args.automata_path_backward = automata_path_backward
-            acc_dev_init, acc_test_init, best_dev_acc, best_dev_test_acc, best_dev_test_p, best_dev_test_r, logger_res = train_MarryupRe2rnn(args)
+            acc_dev_init, acc_test_init, best_dev_acc, best_dev_test_acc, best_dev_test_p, best_dev_test_r, logger_res = train_MarryupRe2rnn(args, paths)
             results[seed] = [acc_dev_init, acc_test_init, best_dev_acc, best_dev_test_acc, best_dev_test_p,
                              best_dev_test_r, ]
             loggers[seed] = logger_res

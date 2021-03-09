@@ -13,6 +13,7 @@ class FSARNNIntegrateEmptyStateSaperateGRU(nn.Module):
         config: config
         """
         super(FSARNNIntegrateEmptyStateSaperateGRU, self).__init__()
+        pass
         self.embedding = nn.Embedding.from_pretrained(torch.from_numpy(pretrained_embed).float(), freeze=(not bool(config.train_word_embed))) # V x D
         vocab_size, embed_dim = pretrained_embed.shape
         _, rank = embed_r.shape
