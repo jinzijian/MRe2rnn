@@ -89,7 +89,7 @@ class MarryupRe2rnn(nn.Module):
 
     def forward(self, input, lengths, re_tags):
         # re_tags B x Label
-        re_tags = self.fsa.forward(input, lengths)
+        re_tags = self.fsa(input, lengths)
         input = self.embedding(input)  # B x L x D
         if self.rnn in ['RNN', 'LSTM', 'GRU']:
             pack_padded_seq_input = torch.nn.utils.rnn.pack_padded_sequence(input, lengths, batch_first=True,

@@ -782,6 +782,7 @@ def train_MarryupRe2rnn(args,paths):
         trans_r_1=forward_params['D1'],
         trans_r_2=forward_params['D2'],
         embed_r=forward_params['V_embed_extend'],
+        trans_wildcard=forward_params['wildcard_mat'],
         h1_forward = h1_forward,
         mat=forward_params['mat'],
         bias=forward_params['bias']
