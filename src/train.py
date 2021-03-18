@@ -1,4 +1,6 @@
-import torch
+
+
+
 from src.models.FARNN import IntentIntegrateSaperate_B, IntentIntegrateSaperateBidirection_B,\
     FSARNNIntegrateEmptyStateSaperateGRU
 from src.models.FARNN_O import IntentIntegrateOnehot
@@ -16,6 +18,9 @@ from rules.fsa_to_tensor import dfa_to_tensor
 import pickle
 from src.val import val, val_marry
 from copy import deepcopy
+
+
+from src.loss import MLoss
 
 
 def get_average(M, normalize_type):
@@ -787,7 +792,11 @@ def train_MarryupRe2rnn(args,paths):
         bias=forward_params['bias']
     )
 
-    criterion = torch.nn.CrossEntropyLoss()
+    #criterion = torch.nn.CrossEntropyLoss()
+    
+    alpah = 1
+    criterion = MLoss(alpah)
+    
     if args.optimizer == 'SGD':
         optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, weight_decay=0)
     if args.optimizer == 'ADAM':
@@ -829,11 +838,11 @@ def train_MarryupRe2rnn(args,paths):
                 x = x.cuda()
                 lengths = lengths.cuda()
                 label = label.cuda()
-                re_tag = re_tag.cuda()
+                #re_tag = re_tag.cuda()
 
-            scores = model(x, lengths, re_tag)
+            scores,retags = model(x, lengths)
 
-            loss_cross_entropy = criterion(scores, label)
+            loss_cross_entropy = criterion(scores,retags,label)
 
             if args.model_type == 'MRe2rnn':
                 loss = loss_cross_entropy
