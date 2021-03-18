@@ -1,5 +1,5 @@
 import torch.nn as nn
-from src.utils.utils import *
+from utils.utils import *
 
 class FSARNNIntegrateEmptyStateSaperateGRU(nn.Module):
     def __init__(self, pretrained_embed=None, trans_r_1=None, trans_r_2=None, embed_r=None, trans_wildcard=None, config=None, h1=None):
