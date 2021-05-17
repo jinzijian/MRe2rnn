@@ -134,4 +134,4 @@ class MarryupRe2rnn(nn.Module):
         elif self.config.marryup_type == 'none':
             score = self.linear(last_hidden)
 
-        return score,re_tags
+        return score

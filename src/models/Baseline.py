@@ -1,6 +1,6 @@
 import torch.nn as nn
-from models.net import DAN, CNN
-from utils.utils import *
+from src.models.net import DAN, CNN
+from src.utils.utils import *
 
 
 class IntentMarryUp(nn.Module):
